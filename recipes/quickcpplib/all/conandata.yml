@@ -1,5 +1,5 @@
 sources:
-  "cci.20260211":
+  "cci.20251216":
     url: "https://github.com/ned14/quickcpplib/archive/40b0964df509e90a4b527243a8fd4dbf6b704ff2.tar.gz"
     sha256: "4d81acd8f12d903bc5ae3a2d03e0ab49196c5d533a08cd66aa5e0480fe4a9138"
   "cci.20231208":
